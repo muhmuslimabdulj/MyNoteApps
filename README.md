@@ -13,7 +13,7 @@ My Note Apps adalah aplikasi untuk membuat, mengedit, dan menghapus catatan yang
 
 1. Clone repositori ini:
     ```bash
-    git clone https://github.com/muhmuslimabdulj/mynoteapps.git
+    git clone https://github.com/muhmuslimabdulj/MyNoteApps.git
     ```
 2. Buka proyek di Android Studio.
 3. Jalankan aplikasi di emulator atau perangkat fisik.
